@@ -675,6 +675,10 @@ video {
   border-radius: 9999px;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
 .border-2 {
   border-width: 2px;
 }
@@ -721,6 +725,11 @@ video {
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .font-primary {
@@ -795,6 +804,10 @@ video {
 
 .\[\&\>div\]\:p-10>div {
   padding: 2.5rem;
+}
+
+.\[\&\>div\]\:p-12>div {
+  padding: 3rem;
 }
 
 @media (min-width: 640px) {
