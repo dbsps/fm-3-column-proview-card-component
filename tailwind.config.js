@@ -13,7 +13,6 @@ module.exports = {
       primary: ['Lexend Deca', 'sans-serif'],
     },
     fontSize: {
-      base: ['15px', '25px'],
       heading: ['40px', '48px'],
     },
     extend: {},
